@@ -20,3 +20,16 @@ yarn-error.log
 /public/css
 /public/build
 /public/mix-manifest.json
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
